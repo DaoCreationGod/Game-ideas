@@ -467,3 +467,4 @@ void collectResources(const Settlement& settlement) {
     }
 }
 
+//This so it can go on github
